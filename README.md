@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 # Udemy 
 # React (Next.js) ile Full Stack Yemek Sipariş Projesi 2023
 # Eğitim Projesi
+# Before Redux
 
 https://www.udemy.com/course/react-nextjs-ile-full-stack-yemek-siparis-projesi
 
