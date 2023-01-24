@@ -1404,6 +1404,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"all@npm:^0.0.0":
+  version: 0.0.0
+  resolution: "all@npm:0.0.0"
+  checksum: 74a10c88e7a1566e81f2f28a815f810949d94ea91844e2f27b64c193126a63ae76ca66ac4887921649fc51c412c8f67107f4ff856244b0c63a625cf7e1ae3107
+  languageName: node
+  linkType: hard
+
 "ansi-regex@npm:^5.0.1":
   version: 5.0.1
   resolution: "ansi-regex@npm:5.0.1"
@@ -2614,6 +2621,7 @@ __metadata:
   dependencies:
     "@next-auth/mongodb-adapter": "npm:^1.0.4"
     "@reduxjs/toolkit": "npm:^1.8.5"
+    all: "npm:^0.0.0"
     autoprefixer: "npm:^10.4.8"
     axios: "npm:^0.27.2"
     bcryptjs: "npm:^2.4.3"
