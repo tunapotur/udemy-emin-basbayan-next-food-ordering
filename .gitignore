@@ -34,6 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
- 
- /.yarn/
- .yarn
+
+/.yarn
+/.yarn/
+.yarn
+yarn.lock
+mongo-config.md
